@@ -11,7 +11,7 @@ function createWindow () {
     })
     
 // carregar o arquivo HTML janela Janela
-window.loadFile('index.html');
+window.loadFile('src/pages/index.html');
 }
 
 
